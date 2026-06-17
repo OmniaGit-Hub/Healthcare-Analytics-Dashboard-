@@ -28,7 +28,6 @@ The main objectives of this project are:
 - # 👩‍💻 Author
 Omnia  
 Aspiring Data Analyst  
-Focused on Excel, Data Visualization, and Business Intelligence.
 
 ---
 
